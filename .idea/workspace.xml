@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5566d64b-fd7d-4713-880d-dbba1602bbc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hostelfinder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/Keystore.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/kotlin/com/finder/hostelfinder/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/assets/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/assets/Iconsss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/assets/host.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/bins/home/home.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/bins/login/login.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/bins/root/root.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/bins/signup/signup.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/bins/splash/splash.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/controllers/home/home.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/controllers/login/login.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/controllers/root/root.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/controllers/signup/signup.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/controllers/splash/splash.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/function/location.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/model/firebase.model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/model/user.model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/core/storage/storage_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/assets/assets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/colors/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/firebase/firebase_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/hooks/hook.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/routes/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/settings/app.settings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/meta/themes/theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/home/home.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/hostels/add.hostel.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/hostels/update.hostel.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/login/login.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/signup/signup.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/splash/splash.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/view/start/adminstart.vew.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/hostel/MultiSelect.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/hostel/card.btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/hostel/hostel.card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/loading.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/text.field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/custom-blue-outlined-button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/custom-blue-rounded-button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/bin/home/home.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/bin/map/mapuiBinding.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/bin/splash/splash.bin.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/controller/home/home.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/controller/root/root.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/controller/splash/splash.controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/functions/make_call.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/functions/open_map.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/core/model/firebase.model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/assets/app.assets.meta.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/colors/app.colors.meta.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/firebase/firebase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/hooks/hook.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/routes/routes.meta.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/settings/app.settings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/meta/theme/app.theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/home.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/map.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/MapUiPage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/Rating.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/homebtn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/hostel_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/no_data.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/search_input.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/singleRecord.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/home/widget/single_hostle_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/loading.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/splash/splash.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/hostlefinder/view/start/Userstart.view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/lib/select.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/run_loop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/run_loop.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hostelfinder/windows/runner/win32_window.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21kmgRXIfgKH7D6rrGzLALfORgT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hostelfinder" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sa\Desktop\noor\hostelfinder\hostelfinder\lib" />
+      <recent name="C:\Users\sa\Desktop\noor\hostelfinder\hostelfinder\lib\adminPanel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sa\Desktop\noor\hostelfinder\hostelfinder\lib\hostlefinder" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5566d64b-fd7d-4713-880d-dbba1602bbc2" name="Default Changelist" comment="" />
+      <created>1638493571019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638493571019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1640843725118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1640843725118" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1640799794447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1640799794447" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/hostelfinder/lib/adminPanel/widget/hostel/MultiSelect.dart</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
