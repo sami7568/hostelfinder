@@ -49,6 +49,7 @@ android {
         applicationId "com.finder.hostelfinder"
         minSdkVersion 20
         targetSdkVersion 30
+        multiDexEnabled true
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         ndkVersion '21.3.6528147'
